@@ -4,14 +4,23 @@
 
 ## Work Experience
 **6sense Insights Inc | Account Based Marketing Startup (__Jun '20 - Mar '24_)**
-### Software Development Engineer - II
-Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+### Summary
+- Software Development Engineer - II
+- Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
+### Leadership & Stakeholder Management
+- Served as POC for high-profile customers (Cognizant, Dell, Okta), managing customer expectations & ensuring meeting of SLA 
+- Product owner of internal A/B testing tool to empower non-tech team to evaluate new feature productization strategies
+  - - Ideated the tool, conducted 5+ interviews (with internal customers), scoped out work & led team of 5 for development
+  - - Reduced research time by 50% via elimination of cross-time-zone communication delays while freeing up engineering time 
+- Brought down platform update time by 10% by voluntarily owning & proactively resolving recurring issues at team interfaces
+### Summary
+- Software Development Engineer - II
+- Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
+### Summary
+- Software Development Engineer - II
+- Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
