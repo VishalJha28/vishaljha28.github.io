@@ -1,6 +1,6 @@
 ## Education
-- MBA, Strategy & Leadership, IT Management | Indian School of Business (ISB) Hyderabad (_Apr '24 - Present_)								       		
-- B.Tech, Computer Science & Engineering	| Indian Insititute of Technology (IIT) Goa (_Aug '16 - Jun '20_)	 			        		
+- Indian School of Business (ISB) Hyderabad | MBA, Strategy & Leadership, IT Management  (_Apr '24 - Present_)								       		
+- Indian Insititute of Technology (IIT) Goa | B.Tech, Computer Science & Engineering	(_Aug '16 - Jun '20_)	 			        		
 
 ## Work Experience
 **6sense Insights Inc | Account Based Marketing Startup (__Jun '20 - Mar '24_)**
