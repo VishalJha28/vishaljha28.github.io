@@ -3,22 +3,19 @@
 - Indian Insititute of Technology (IIT) Goa | B.Tech, Computer Science & Engineering	(_Aug '16 - Jun '20_)	 			        		
 
 ## Work Experience
-**6sense Insights Inc | Account Based Marketing Startup (__Jun '20 - Mar '24_)**
-### Summary
-- Software Development Engineer - II
-- Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
-### Leadership & Stakeholder Management
-- Served as POC for high-profile customers (Cognizant, Dell, Okta), managing customer expectations & ensuring meeting of SLA 
-- Product owner of internal A/B testing tool to empower non-tech team to evaluate new feature productization strategies
-  - - Ideated the tool, conducted 5+ interviews (with internal customers), scoped out work & led team of 5 for development
-  - - Reduced research time by 50% via elimination of cross-time-zone communication delays while freeing up engineering time 
-- Brought down platform update time by 10% by voluntarily owning & proactively resolving recurring issues at team interfaces
-### Summary
-- Software Development Engineer - II
-- Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
-### Summary
-- Software Development Engineer - II
-- Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
+**6sense Insights Inc | Account Based Marketing Startup (_Jun '20 - Mar '24_)**
+- ### Summary
+  - Software Development Engineer - II
+  - Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
+- ### Leadership & Stakeholder Management
+  - Served as POC for high-profile customers (Cognizant, Dell, Okta), managing customer expectations & ensuring meeting of SLA 
+  - Product owner of internal A/B testing tool to empower non-tech team to evaluate new feature productization strategies
+    - - Ideated the tool, conducted 5+ interviews (with internal customers), scoped out work & led team of 5 for development
+    - - Reduced research time by 50% via elimination of cross-time-zone communication delays while freeing up engineering time 
+  - Brought down platform update time by 10% by voluntarily owning & proactively resolving recurring issues at team interfaces
+- ### Summary
+  - Software Development Engineer - II
+  - Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
 
 
 
