@@ -3,57 +3,50 @@
 - Indian Insititute of Technology (IIT) Goa | B.Tech, Computer Science & Engineering	(_Aug '16 - Jun '20_)	 			        		
 
 ## Work Experience
-**6sense Insights Inc | Account Based Marketing Startup (_Jun '20 - Mar '24_)**
-- ### Summary
-  - Software Development Engineer - II
-  - Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
+### 6sense Insights Inc | Account-Based Marketing Startup (_Jun '20 - Mar '24_)
+  **Software Development Engineer - II | Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc** 
+- ### Firm Building Initiatives
+    1.	Conducted training workshop for 10+ teammates in new tool that streamlined a manual code-run process (50% faster)
+    2.	Shortened onboarding (15 to 3 days) for 15+ new hires through extensive documentation & coaching for best practices
+    3.	Decreased time to market (6 to 4 months) of 5+ launches via thorough proof of concepts, minimizing unknowns
+    4.	Championed hosting of Interviewer Training Session (300+ attendees) for standardization of selection process & better hiring 
+
 - ### Leadership & Stakeholder Management
-  - Served as POC for high-profile customers (Cognizant, Dell, Okta), managing customer expectations & ensuring meeting of SLA 
-  - Product owner of internal A/B testing tool to empower non-tech team to evaluate new feature productization strategies
-    - - Ideated the tool, conducted 5+ interviews (with internal customers), scoped out work & led team of 5 for development
-    - - Reduced research time by 50% via elimination of cross-time-zone communication delays while freeing up engineering time 
-  - Brought down platform update time by 10% by voluntarily owning & proactively resolving recurring issues at team interfaces
-- ### Summary
-  - Software Development Engineer - II
-  - Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc 
+    1. Served as POC for high-profile customers (Cognizant, Dell, Okta), managing customer expectations & ensuring meeting of SLA 
+    2. Product owner of internal A/B testing tool to empower non-tech team to evaluate new feature productization strategies
+    3. Ideated the tool, conducted 5+ interviews (with internal customers), scoped out work & led team of 5 for development
+        - Reduced research time by 50% via elimination of cross-time-zone communication delays while freeing up engineering time 
+        - Brought down platform update time by 10% by voluntarily owning & proactively resolving recurring issues at team interfaces
+- ### Strategic Initiatives
+    1. Increased team revenue by 10% ($1M/yr) via ‘Audience Forecasting Feature’ that allowed better campaign strategies
+    2. Collaborated with data science team to create reach prediction module (>95% accuracy) based on historical data
+    3. Revitalized retargeting product (segment revenue increase by 30% ~$500K/yr) by launching ‘Auto-Retargeting Feature’
+        - Reduced bounce rates by 20% through programmatic retargeting of users that clicked on an Ad to ensure higher conversions 
+    4. Orchestrated a 15% increase in campaigns launched through implementation of ‘Influenced Form Fill Analytics Tool’
+        - Used UTM parameters to monitor traffic & customize campaigns by buyer stage (aware/considering/purchasing)
+    5. Collaborated with 3 teams to build ‘Language based Domain Blocking Feature’ for 10% higher budget spend efficacy 
+        - Trained classifier model to identify website language through content & metadata, blocking ads on unintended sites 
+    6. Future-proofed org USP amidst rising privacy focus by cutting reliance on Personally Identifiable Information (PII)
+        -	Surpassed GDPR/CCPA requirements by creating algorithm to avoid 3rd-party cookies while gaining 6% more clicks
+        -	Introduced ‘Contextual Ads’ for targeted campaigns based on current browsing behaviour instead of past tracking 
+    7. Prevented potential data breaches (val: >$100M) by fixing 20+ vulnerabilities & being SPOC for data security practices
+    8. Dampened impact of cyber-attacks by 85% via Role-Based Access, sharing sensitive data on a need-to-know basis
+
+
+
+- ### Process Improvements
+    1. Lead ‘Ranking Project’ to increase CTR of campaigns by 300% through identification & elimination of inefficiencies
+        - Designed & executed experiments with ML team to develop a prioritization algorithm for proper limits utilization
+    2. Saved workforce costs (~₹30 lakhs/yr) by launching ‘Campaign Performance Indicators’ for reporting & corrective suggestions
+        - Created at-a-glance automated performance dashboards for providing insights to customers without manual effort by DA
+    3. Slashed faulty releases by 30% via enhanced QA coverage, updating 100+ tests, & enforcing testing standards for future releases
 
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
-
+- **“HackOn with Amazon” DSA Challenge (Top 0.1%/20k+)**: Awarded PPI & ₹10k in prizes for problem solving through algorithmic optimization
+- **Programmatic Timetable Scheduling**: Saved 10+ people-hours by developing error-free scheduling application for college’s timetable creation
+- **JARVIS**: Developed wardrobe companion app to track clothes (clean/washing) & suggest outfits based on availability & predicted match score
+- **Room Automation**: Applied Digital Logic Design course to create password unlocking & person counter for automated switching off appliances
+- **Detective game**: Used Langchain, Huggingface & OpenAI generative models to create a text-based interrogation and reasoning game
+- **AI-based Sign Language Translator (>80% accuracy)**: Worked with special needs school for creating dataset & AI model for Indian Sign Language
