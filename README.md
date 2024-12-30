@@ -1,13 +1,11 @@
-  
+# Professional Summary
 *Technology Innovator | Business Strategist | Aspiring Consultant*  
 [LinkedIn Profile](#) | [Email Address](mailto:#)  
 
----
-
-## **Professional Summary**  
 *"From designing cutting-edge AI features to driving cross-functional initiatives, my journey at 6sense has been about more than just coding—it's been about delivering measurable business impact. With a fast-track promotion and a track record of leading innovative, revenue-generating projects, I aim to bring my blend of technical expertise and strategic foresight to consulting or founder roles, where I can help organizations solve complex challenges and scale effectively."*
 
 ---
+
 
 ## **The Journey**
 
