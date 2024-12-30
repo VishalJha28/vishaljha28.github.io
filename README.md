@@ -1,52 +1,71 @@
-## Education
-- Indian School of Business (ISB) Hyderabad | MBA, Strategy & Leadership, IT Management  (_Apr '24 - Present_)								       		
-- Indian Insititute of Technology (IIT) Goa | B.Tech, Computer Science & Engineering	(_Aug '16 - Jun '20_)	 			        		
+# **VISHAL JHA**  
+*Technology Innovator | Business Strategist | Aspiring Consultant*  
+[LinkedIn Profile](#) | [Email Address](mailto:#)  
 
-## Work Experience
-### 6sense Insights Inc | Account-Based Marketing Startup (_Jun '20 - Mar '24_)
-  **Software Development Engineer - II | Owned & managed 50+ features to improve the performance (CTR, match rates) of B2B campaigns on Google Ads, LinkedIn Ads, Meta etc** 
-- ### Firm Building Initiatives
-    1.	Conducted training workshop for 10+ teammates in new tool that streamlined a manual code-run process (50% faster)
-    2.	Shortened onboarding (15 to 3 days) for 15+ new hires through extensive documentation & coaching for best practices
-    3.	Decreased time to market (6 to 4 months) of 5+ launches via thorough proof of concepts, minimizing unknowns
-    4.	Championed hosting of Interviewer Training Session (300+ attendees) for standardization of selection process & better hiring 
+---
 
-- ### Leadership & Stakeholder Management
-    1. Served as POC for high-profile customers (Cognizant, Dell, Okta), managing customer expectations & ensuring meeting of SLA 
-    2. Product owner of internal A/B testing tool to empower non-tech team to evaluate new feature productization strategies
-    3. Ideated the tool, conducted 5+ interviews (with internal customers), scoped out work & led team of 5 for development
-        - Reduced research time by 50% via elimination of cross-time-zone communication delays while freeing up engineering time 
-        - Brought down platform update time by 10% by voluntarily owning & proactively resolving recurring issues at team interfaces
-- ### Strategic Initiatives
-    1. Increased team revenue by 10% ($1M/yr) via ‘Audience Forecasting Feature’ that allowed better campaign strategies
-    2. Collaborated with data science team to create reach prediction module (>95% accuracy) based on historical data
-    3. Revitalized retargeting product (segment revenue increase by 30% ~$500K/yr) by launching ‘Auto-Retargeting Feature’
-        - Reduced bounce rates by 20% through programmatic retargeting of users that clicked on an Ad to ensure higher conversions 
-    4. Orchestrated a 15% increase in campaigns launched through implementation of ‘Influenced Form Fill Analytics Tool’
-        - Used UTM parameters to monitor traffic & customize campaigns by buyer stage (aware/considering/purchasing)
-    5. Collaborated with 3 teams to build ‘Language based Domain Blocking Feature’ for 10% higher budget spend efficacy 
-        - Trained classifier model to identify website language through content & metadata, blocking ads on unintended sites 
-    6. Future-proofed org USP amidst rising privacy focus by cutting reliance on Personally Identifiable Information (PII)
-        -	Surpassed GDPR/CCPA requirements by creating algorithm to avoid 3rd-party cookies while gaining 6% more clicks
-        -	Introduced ‘Contextual Ads’ for targeted campaigns based on current browsing behaviour instead of past tracking 
-    7. Prevented potential data breaches (val: >$100M) by fixing 20+ vulnerabilities & being SPOC for data security practices
-    8. Dampened impact of cyber-attacks by 85% via Role-Based Access, sharing sensitive data on a need-to-know basis
+## **Professional Summary**  
+*"From designing cutting-edge AI features to driving cross-functional initiatives, my journey at 6sense has been about more than just coding—it's been about delivering measurable business impact. With a fast-track promotion and a track record of leading innovative, revenue-generating projects, I aim to bring my blend of technical expertise and strategic foresight to consulting or founder roles, where I can help organizations solve complex challenges and scale effectively."*
 
+---
 
+## **The Journey**
 
-- ### Process Improvements
-    1. Lead ‘Ranking Project’ to increase CTR of campaigns by 300% through identification & elimination of inefficiencies
-        - Designed & executed experiments with ML team to develop a prioritization algorithm for proper limits utilization
-    2. Saved workforce costs (~₹30 lakhs/yr) by launching ‘Campaign Performance Indicators’ for reporting & corrective suggestions
-        - Created at-a-glance automated performance dashboards for providing insights to customers without manual effort by DA
-    3. Slashed faulty releases by 30% via enhanced QA coverage, updating 100+ tests, & enforcing testing standards for future releases
+### **Chapter 1: Foundation – Software Developer I, 6sense Insights Inc.** *(Jun 2020 – Dec 2021)*  
+*"In my first role at 6sense, I honed my technical expertise while discovering the power of aligning technology with business goals."*
 
+- **Built Scalable Solutions**:  
+  - Designed a robust backend system to improve customer insights platform performance, increasing campaign match rates by 20%.  
+  - Optimized platform updates, reducing deployment time by 10% through innovative refactoring techniques.
 
+- **Process Improvements**:  
+  - Automated internal workflows, saving $200K annually and streamlining team operations.  
+  - Enhanced QA coverage, reducing faulty releases by 30% and establishing a culture of testing excellence.
 
-## Projects
-- **“HackOn with Amazon” DSA Challenge (Top 0.1%/20k+)**: Awarded PPI & ₹10k in prizes for problem solving through algorithmic optimization
-- **Programmatic Timetable Scheduling**: Saved 10+ people-hours by developing error-free scheduling application for college’s timetable creation
-- **JARVIS**: Developed wardrobe companion app to track clothes (clean/washing) & suggest outfits based on availability & predicted match score
-- **Room Automation**: Applied Digital Logic Design course to create password unlocking & person counter for automated switching off appliances
-- **Detective game**: Used Langchain, Huggingface & OpenAI generative models to create a text-based interrogation and reasoning game
-- **AI-based Sign Language Translator (>80% accuracy)**: Worked with special needs school for creating dataset & AI model for Indian Sign Language
+- **Key Takeaway**: Learned to translate technical challenges into business opportunities, setting the stage for my progression.
+
+---
+
+### **Chapter 2: Driving Impact – Software Development Engineer II** *(Jan 2022 – Mar 2024)*  
+*"Promoted to take ownership of high-impact projects, blending technical expertise with leadership and strategic thinking."*
+
+- **Product Leadership**:  
+  - Delivered the **'Audience Forecasting Feature,'** driving a $1M annual revenue boost by enabling precision targeting for ad campaigns.  
+  - Launched **'Auto-Retargeting Feature,'** revitalizing the retargeting segment and increasing revenue by 30% (~$500K annually).  
+  - Conceptualized and implemented **'Ranking Project,'** increasing click-through rates by 300% using a prioritization algorithm.  
+
+- **Strategic Initiatives**:  
+  - Future-proofed ad delivery with GDPR-compliant **Contextual Ads,** ensuring a 6% increase in campaign performance amidst privacy constraints.  
+  - Collaborated with data science teams to develop a reach prediction module with 95% accuracy, optimizing campaign strategies.
+
+- **Leadership Excellence**:  
+  - Spearheaded internal **A/B Testing Tools,** cutting research delays by 50% and enabling faster feature evaluation.  
+  - Reduced onboarding time for new hires from 15 to 3 days by creating structured documentation and coaching sessions.  
+  - Conducted training for 300+ employees, standardizing interview processes and enhancing hiring quality.
+
+- **Key Takeaway**: Strengthened my ability to lead cross-functional teams and deliver measurable outcomes, aligning technical solutions with strategic goals.
+
+---
+
+## **Education**  
+### **Indian School of Business (PGP)** *(Apr 2024 – Present)*  
+*Strategy & Leadership, IT Management*  
+- **Merit List Awardee (Top 1%)**: Among the top 10 in core courses including Strategy, Finance, and Marketing.  
+- Academic Representative: Drove 5+ policy changes, improving student-administration collaboration.  
+
+### **Indian Institute of Technology (IIT), Goa (B.Tech)** *(Aug 2016 – Jun 2020)*  
+*Computer Science & Engineering | CGPA: 8.67/10*  
+- Conducted sentiment analysis research to predict stock price movements, achieving 70% accuracy.  
+- Recognized as an NTSE Scholar and KVPY Fellow for academic excellence.  
+
+---
+
+## **Key Skills**  
+- **Technical Expertise**: Python, SQL, AWS, Machine Learning Integration, A/B Testing, Campaign Optimization.  
+- **Business Acumen**: Stakeholder Management, Product Innovation, Cross-Functional Leadership, Strategic Thinking.  
+
+---
+
+## **Next Chapter: Vision for Consulting**  
+*"My journey so far has been about creating value at the intersection of technology and strategy. As I move forward, I aim to leverage my expertise in solving complex problems and scaling innovative solutions to help organizations thrive in dynamic markets."*
+
