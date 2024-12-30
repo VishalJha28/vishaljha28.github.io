@@ -1,4 +1,4 @@
-# **VISHAL JHA**  
+  
 *Technology Innovator | Business Strategist | Aspiring Consultant*  
 [LinkedIn Profile](#) | [Email Address](mailto:#)  
 
